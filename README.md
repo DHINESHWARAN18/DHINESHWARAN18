@@ -11,7 +11,7 @@ B.E Computer Science and Engineering student @ Sathyabama Institute of Science a
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhineshwaran-r/) <br/> [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DHINESHWARAN18)
 
 ### Languages & Tools
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flask.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 
 ### 🚀 Personal Projects
 - **Caesarean Section Analysis** — ML model (Linear Regression & Decision Tree) predicting delivery type from maternal health data, achieving 90% accuracy.
